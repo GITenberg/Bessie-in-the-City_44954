@@ -1,0 +1,29 @@
+_repo: Bessie-in-the-City_44954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44954-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2014-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Generosity -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'City and town life -- Juvenile fiction'
+title: Bessie in the City
+url: http://www.gutenberg.org/ebooks/44954
